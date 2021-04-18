@@ -6,7 +6,7 @@ Quick Bash script to generate malicious snap packages. Commands are executed in 
 
 ## Installation/Usage
 - Download/setup:
-- 
+
 `wget https://raw.githubusercontent.com/0xAsh/Snap_Generator/main/snap_generator.sh && chmod +x snap_generator.sh`
 
 - Generate snap package:
